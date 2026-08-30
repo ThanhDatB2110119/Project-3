@@ -170,7 +170,7 @@ a {
 }
 .service__desc {
   width: 468px;
-  margin: 0 auto;
+  margin: 18px auto 0;
 }
 .service__row {
   margin-top: 70px;
